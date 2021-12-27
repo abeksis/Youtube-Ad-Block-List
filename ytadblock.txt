@@ -1,7 +1,7 @@
 ### Youtube Ad-Block-List for PiHole by Abeksis ###
   
 #main
-advertisment
+#advertisment
 0.0.0.0 r1.sn-hgn7rn7k.googlevideo.com
 0.0.0.0 r2.sn-4g5e6nzs.googlevideo.com
 0.0.0.0 r2.sn-hgn7yn7s.googlevideo.com
